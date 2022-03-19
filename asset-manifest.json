@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sp22-homework4-starter-SeboThaGawd/static/css/main.d7c36836.css",
-    "main.js": "/sp22-homework4-starter-SeboThaGawd/static/js/main.7c62b8a1.js",
-    "index.html": "/sp22-homework4-starter-SeboThaGawd/index.html",
-    "main.d7c36836.css.map": "/sp22-homework4-starter-SeboThaGawd/static/css/main.d7c36836.css.map",
-    "main.7c62b8a1.js.map": "/sp22-homework4-starter-SeboThaGawd/static/js/main.7c62b8a1.js.map"
+    "main.css": "/homework4-SeboThaGawd/static/css/main.d7c36836.css",
+    "main.js": "/homework4-SeboThaGawd/static/js/main.403053f7.js",
+    "index.html": "/homework4-SeboThaGawd/index.html",
+    "main.d7c36836.css.map": "/homework4-SeboThaGawd/static/css/main.d7c36836.css.map",
+    "main.403053f7.js.map": "/homework4-SeboThaGawd/static/js/main.403053f7.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c36836.css",
-    "static/js/main.7c62b8a1.js"
+    "static/js/main.403053f7.js"
   ]
 }
